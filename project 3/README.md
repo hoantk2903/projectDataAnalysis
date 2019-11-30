@@ -1,0 +1,1 @@
+In this project, I used SQL to create the tables that list the information needed. The data includes the list of actors, list of movies and their ratings (Please refers to the data file). Based on the data and the requirements (Please refers to the requirements file), I wrote the SQL statements to extract the information from the master table. (please refers to the report file)
