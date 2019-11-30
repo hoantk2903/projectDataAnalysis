@@ -1,0 +1,2 @@
+In this project, I used the data given to create the visualizations with Microsoft Power BI. The data includes the list of customers, list of workers and list of the jobs done by the workers (Please refers to the data file to have more detail). Based on the data and the requirements given (Please refers to the requirements file to have more detail), I created the charts, tables, and map to visualize data to get the insights from it. (Please refers to the report file to have more detail)
+
